@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @m_bahad1r on instagram
+- 👀 Studying Computeer Engineering in Trakya University
+- 🌱 I’m currently learning python 
